@@ -1,3 +1,5 @@
-a small experiment re: multiline clamped text component
+experimenting w/ a multiline clamped text component
 
-`npm install && npm start`
+see `Clamp.js` for details
+
+to run locally: `npm install && npm start`
