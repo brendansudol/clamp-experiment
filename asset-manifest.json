@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/clamp-experiment/static/css/main.5c8ce3ac.chunk.css",
-    "main.js": "/clamp-experiment/static/js/main.1cc5c269.chunk.js",
-    "main.js.map": "/clamp-experiment/static/js/main.1cc5c269.chunk.js.map",
-    "runtime-main.js": "/clamp-experiment/static/js/runtime-main.cdcab7db.js",
-    "runtime-main.js.map": "/clamp-experiment/static/js/runtime-main.cdcab7db.js.map",
-    "static/js/2.9a380690.chunk.js": "/clamp-experiment/static/js/2.9a380690.chunk.js",
-    "static/js/2.9a380690.chunk.js.map": "/clamp-experiment/static/js/2.9a380690.chunk.js.map",
+    "main.js": "/clamp-experiment/static/js/main.e2e859c7.chunk.js",
+    "main.js.map": "/clamp-experiment/static/js/main.e2e859c7.chunk.js.map",
+    "runtime-main.js": "/clamp-experiment/static/js/runtime-main.28f1a6f3.js",
+    "runtime-main.js.map": "/clamp-experiment/static/js/runtime-main.28f1a6f3.js.map",
+    "static/js/2.134a6f7a.chunk.js": "/clamp-experiment/static/js/2.134a6f7a.chunk.js",
+    "static/js/2.134a6f7a.chunk.js.map": "/clamp-experiment/static/js/2.134a6f7a.chunk.js.map",
     "index.html": "/clamp-experiment/index.html",
     "static/css/main.5c8ce3ac.chunk.css.map": "/clamp-experiment/static/css/main.5c8ce3ac.chunk.css.map",
-    "static/js/2.9a380690.chunk.js.LICENSE.txt": "/clamp-experiment/static/js/2.9a380690.chunk.js.LICENSE.txt"
+    "static/js/2.134a6f7a.chunk.js.LICENSE.txt": "/clamp-experiment/static/js/2.134a6f7a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.cdcab7db.js",
-    "static/js/2.9a380690.chunk.js",
+    "static/js/runtime-main.28f1a6f3.js",
+    "static/js/2.134a6f7a.chunk.js",
     "static/css/main.5c8ce3ac.chunk.css",
-    "static/js/main.1cc5c269.chunk.js"
+    "static/js/main.e2e859c7.chunk.js"
   ]
 }
