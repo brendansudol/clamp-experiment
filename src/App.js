@@ -9,6 +9,16 @@ reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.`
 export function App() {
   return (
     <div>
+      <p>
+        <a
+          href="https://github.com/brendansudol/clamp-experiment"
+          rel="noreferrer"
+          target="_blank"
+        >
+          source code →
+        </a>
+      </p>
+
       <h4>3 line clamp, no "show more/less" buttons:</h4>
       <Clamp className="example" text={SAMPLE_TEXT} lineCount={3} />
 
